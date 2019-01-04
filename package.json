@@ -1,0 +1,31 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Simple bookstore app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcostiagofh/simple-bookstore.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "express",
+    "mongodb",
+    "bookstore"
+  ],
+  "author": "Marcos Henriques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcostiagofh/simple-bookstore/issues"
+  },
+  "homepage": "https://github.com/marcostiagofh/simple-bookstore#readme"
+}
